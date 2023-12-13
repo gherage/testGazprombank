@@ -1,0 +1,28 @@
+.block {
+  border: 1px solid black;
+  margin: 30px;
+  padding: 0px 10px 10px;
+  width: 350px;
+  overflow: hidden;
+}
+
+.title {
+  margin-top: 0;
+}
+
+.ulBlock {
+  height: 120px;
+  overflow: hidden;
+}
+
+.liBlock {
+  display: block;
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+}
+
+.textBlock {
+  height: 100px;
+  overflow: hidden;
+}

@@ -1,0 +1,4 @@
+.blockContainer {
+  display: flex;
+  flex-wrap: wrap;
+}
